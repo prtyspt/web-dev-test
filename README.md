@@ -1,7 +1,9 @@
 # README
 
 This README would normally document whatever steps are necessary to get the
-application up and running. - TBD
+application up and running.
+
+(This is my prtyspt's first GIT project)
 
 Things you may want to cover:
 
